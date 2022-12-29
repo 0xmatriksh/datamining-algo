@@ -6,3 +6,7 @@
 - For Apriori, we have used *mlxtend* libray, for which we need to install it using command  `pip install mlxtend`
 
 - For Frequent Pattern(FP) Growth also, we used *mlxtend* library
+
+- For KMeans, we used *sklearn* library
+
+- Similarly for KMediods, we used *sklearn* library
