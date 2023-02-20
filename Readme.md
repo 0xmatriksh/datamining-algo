@@ -9,4 +9,8 @@
 
 - For KMeans, we used *sklearn* library
 
+- Inside Clustering, we have Hierarchical clustering and DBSCAN, which uses *sklearn* and *scipy*
+
 - Similarly for KMediods, we used *sklearn* library
+
+- Inside Classification, we have Naive Bayes and Decision Tree, which uses *sklearn*
